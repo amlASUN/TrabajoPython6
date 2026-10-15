@@ -7,4 +7,3 @@
 - Hecho por dos estudiantes apasionados por la informática.
 - Futuro mantenimiento en su aplicación.
 - Mejoría de su anterior versión en TrabajoPython3.
-- Verificado por LeJaume.
